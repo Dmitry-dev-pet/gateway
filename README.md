@@ -1,2 +1,1 @@
-# gateway
-API Gateway for IT Mentor Platform
+# Gateway Service
